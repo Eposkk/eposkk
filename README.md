@@ -9,6 +9,15 @@ My links:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eposkk&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Currently working on Vue
+
+Check my progress (Click on the icon): 
+
+<a href='http://www.somflytta.me'> <img alt="CalcIcon" src="https://raw.githubusercontent.com/Eposkk/calculator/master/src/icon.png" width=70/></a>
+
+
+
+
 
 
 <!--
