@@ -20,7 +20,7 @@ My links:
 
 Check my progress (Click on the icon): 
 
-<a href='http://www.dudensomflytta.no'> <img alt="CalcIcon" src="https://raw.githubusercontent.com/Eposkk/calculator/master/src/icon.png" width=70/></a>
+<a href='http://www.dudensomflytta.no'> <img alt="CalcIcon" src="https://raw.githubusercontent.com/Eposkk/IDATT2105-Fullstack/master/src/assets/logo.png" width=70/></a>
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=eposkk&&style=flat-square)  
