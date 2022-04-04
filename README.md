@@ -25,6 +25,8 @@ Check my progress (Click on the icon):
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=eposkk&&style=flat-square)  
 
+![wakatime](https://wakatime.com/badge/user/d2dfa647-d984-4980-9f63-373e92e9ba29.svg)
+
 
 
 <!--
