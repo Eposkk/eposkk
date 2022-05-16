@@ -18,10 +18,11 @@ My links:
 
 
 
-Check my progress (Click on the icon): 
+Check out my projects: 
 
-<a href='http://www.dudensomflytta.no'> <img alt="CalcIcon" src="https://raw.githubusercontent.com/Eposkk/IDATT2105-Fullstack/master/frontend/src/assets/logo.png" width=70/></a>
-
+- [Boco Buddies](http://bocobuddies.no/)
+- [QS99](http://qs.eivindharboe.no/)
+- [Idatt2105](http://www.dudensomflytta.no)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=eposkk&&style=flat-square)  
 
