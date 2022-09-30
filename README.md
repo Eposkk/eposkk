@@ -14,7 +14,7 @@ My links:
 
 ## Currently learning:
 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://hendrixer.github.io/nextjs-course/44f073f9132a0459819eae6afa5b3807/next_with_bg.svg" alt="Next.js" width="110" /> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="70" /> </a>
 
 
 
