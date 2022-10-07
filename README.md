@@ -21,7 +21,7 @@ My links:
 Check out my projects: 
 
 - [Boco Buddies](http://bocobuddies.no/)
-- [QS99](http://qs.eivindharboe.no/)
+- [QS99](http://qs.dudensomflytta.no/)
 - [Idatt2105](http://www.dudensomflytta.no)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=eposkk&&style=flat-square)  
