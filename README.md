@@ -2,7 +2,7 @@
 
 My links: 
 
-<a href="https://linkedin.com/in/eivind-strand-221a70211" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/eivind-strand-harboe-221a70211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 [![Top Langs](https://github-readme-stats-gules-five.vercel.app/api/top-langs/?username=eposkk)](https://github-readme-stats-gules-five.vercel.app/api/top-langs/?username=eposkk)
