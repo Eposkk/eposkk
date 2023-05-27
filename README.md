@@ -1,5 +1,8 @@
 ### Hi👋
 
+I am currently finishing up my bachelors degree in computer engineering at NTNU.
+Also currently working as a software engineer at FrontCore.
+
 My links: 
 
 <a href="https://www.linkedin.com/in/eivind-strand-harboe-221a70211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
