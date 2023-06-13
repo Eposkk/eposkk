@@ -1,7 +1,7 @@
 ### Hi👋
 
 I am currently finishing up my bachelors degree in computer engineering at NTNU.
-Also currently working as a software engineer at FrontCore.
+Also currently working as a software engineer at FrontCore and as an intern at Knowtex.
 
 My links: 
 
