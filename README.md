@@ -15,13 +15,14 @@ My links:
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Next.js" width="40" /> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-  
+
+<!--
 Check out my projects: 
 
 - [Boco Buddies](http://bocobuddies.no/)
 - [QS99](http://qs.dudensomflytta.no/)
 - [Idatt2105](http://www.dudensomflytta.no)
-
+-->
 ![Profile views counter](https://komarev.com/ghpvc/?username=eposkk&&style=flat-square)  
 
 
