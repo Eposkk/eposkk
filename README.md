@@ -1,9 +1,9 @@
 ### Hi👋
 
-I am currently finishing up my bachelors degree in computer engineering at NTNU.
-Also currently working as a software engineer at FrontCore and as an intern at Knowtex.
+I am taking a Master of Science in Computer Science at NTNU and have just finished my bachelor's degree in computer engineering.
+Also currently working as a software engineer at FrontCore and previously worked as an ETL engineer at Knowtex.
 
-My links: 
+My LinkedIn: 
 
 <a href="https://www.linkedin.com/in/eivind-strand-harboe-221a70211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
