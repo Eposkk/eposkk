@@ -1,7 +1,7 @@
 ### Hi👋
 
-I am taking a Master of Science in Computer Science at NTNU and have just finished my bachelor's degree in computer engineering.
-Also currently working as a software engineer at FrontCore and previously worked as an ETL engineer at Knowtex.
+I am taking a Master of Science in Computer Science at NTNU
+Also currently working as a software engineer at FrontCore and previously worked as a Fullstack Developer at Computas and an ETL engineer at Knowtex.
 
 My LinkedIn: 
 
